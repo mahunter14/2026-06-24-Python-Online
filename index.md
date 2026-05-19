@@ -16,9 +16,9 @@ enddate: 2026-07-22        # machine-readable end date for the workshop in YYYY-
 instructor: ["Marc Hunter","Chris Sherwood", "Bojan Milinic"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Zafer Defne", "JoAnna Marlow", "Bryan McCloskey", "Justin Mayers"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mahunter@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMzN2RmMGItODQ4YS00OTU2LTg2NjQtOWFiNDNjNDRkZDI2%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22f579f0e3-eeca-4639-b26a-82893041efc4%22%7d"
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+collaborative_notes:  "[Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMzN2RmMGItODQ4YS00OTU2LTg2NjQtOWFiNDNjNDRkZDI2%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%22f579f0e3-eeca-4639-b26a-82893041efc4%22%7d)"
+# eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+# what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
